@@ -1,0 +1,5 @@
+Champion
+Description: A worrior with a sword
+70
+15
+35
